@@ -10,3 +10,5 @@ Du kan använda andra typer av bilder, parametrar och antal av bild grupper.
 Denna kod är baserad på ett gymnasie arbete som är baserad på katter och hundar, <br />
 Om du använder andra bilder så får du ändra namnet på mapparna "cat" och "Dog" i <br />
 mapparna "\IRA\Data\Training_data" och "\IRA\Data\Testing_data"
+
+För tillfället finns det ingen färdig modell för att testa
