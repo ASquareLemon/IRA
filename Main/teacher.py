@@ -123,9 +123,6 @@ def teacher(batches = 1, batch_size = 10, img_size = 250, clf = "",
 
 
 
-
-
-
 source = truck.os.getcwd().replace("\\","/") + "/Joblib_jar"
 
 if truck.os.path.exists(source) != True:
